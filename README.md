@@ -65,9 +65,9 @@ Users can tag and report dangerous locations in their neighborhoods, helping oth
 
 The extension allows women to recommend educational resources and collaboratively build roadmaps. Users can highlight parts of their studies they find challenging and receive targeted advice from the community.
 
-- ![Image Placeholder](FeminaShield/IMGS/6.png)
-- ![Image Placeholder](FeminaShield/IMGS/7.png)
-- ![Image Placeholder](FeminaShield/IMGS/8.png)
+- ![Image Placeholder](./IMGS/6.png)
+- ![Image Placeholder](./IMGS/7.png)
+- ![Image Placeholder](./IMGS/8.png)
 
 ### **Content Tagging**
 
