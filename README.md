@@ -105,3 +105,14 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/Feminashield.git
    ```
+
+2. run the web server (currently we're still using the vite dev server but in reality we will build the frontend and add it as a static route in the backend):
+   ```bash
+   cd webserver
+   npm run dev &
+   cd server
+   npm start 
+
+
+3. to add the extension your browser you have to navigate to chrome://extensions , enable developer mode and click load unpacked extension. then select the "extension" folder
+
