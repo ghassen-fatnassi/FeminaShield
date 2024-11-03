@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/yourusername/Feminashield">
     <img src="./public/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -51,12 +51,12 @@ Feminashield is a browser extension toolkit aimed at creating a safer online exp
 - **Content Tagging**: A feature enabling users to tag links and content that empower women, fostering a collaborative community of support and encouragement.
 
 ### Built With
-- [![React][React.js]][React-url]
-- [![Express][express.js]][express-url]
-- [![TypeScript][typescript.js]][typescript-url]
-- [![FastAPI][fastapi.js]][fastapi-url]
-- [![Torch][torch.js]][torch-url]
-- [![Hugging Face][huggingface.js]][huggingface-url]
+- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+- [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+- [![Torch](https://img.shields.io/badge/PyTorch-EE4C2A?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9E00?style=for-the-badge&logo=Huggingface&logoColor=white)](https://huggingface.co/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
