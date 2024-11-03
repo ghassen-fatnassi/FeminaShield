@@ -11,7 +11,6 @@
     A toolkit designed to empower women for safer web browsing and community support.
     <br />
   </p>
-  <a href="#"><strong>View The Demo »</strong></a>
 
 </div>
 
@@ -42,6 +41,8 @@ Feminashield is a browser extension toolkit aimed at creating a safer online exp
 ## Features
 
 ### **Misogyny Content Masking**
+
+[View this latex file explaining broadly our ai related solutions](./meta/ai_explanation.pdf)
 
 Automatically masks misogynistic comments and memes on platforms like Facebook to enhance a positive browsing experience.
 
