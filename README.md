@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yourusername/Feminashield">
-    <img src="./public/img/logo.png" alt="Logo" width="80" height="80">
+    <img src="./IMGS/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Feminashield</h3>
