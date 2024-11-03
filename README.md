@@ -68,6 +68,7 @@ The extension allows women to recommend educational resources and collaborativel
 - ![Image Placeholder](./IMGS/6.png)
 - ![Image Placeholder](./IMGS/7.png)
 - ![Image Placeholder](./IMGS/8.png)
+- ![Image Placeholder](./IMGS/9.png)
 
 ### **Content Tagging**
 
