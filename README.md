@@ -111,6 +111,13 @@ Ensure you have the following installed:
    npm run dev &
    cd server
    npm start 
+   ```
+3. run the ai filtering fastapi backend using the following command:
+  ```bash
+  cd filter_backend
+  pip install -r requirements.txt
+  python src/infer_comm.py
+```
 
 
 3. to add the extension your browser you have to navigate to chrome://extensions , enable developer mode and click load unpacked extension. then select the "extension" folder
