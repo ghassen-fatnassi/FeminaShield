@@ -122,4 +122,5 @@ Ensure you have the following installed:
 
 
 3. to add the extension your browser you have to navigate to chrome://extensions , enable developer mode and click load unpacked extension. then select the "extension" folder
-N.B: download the finetuned model from this link https://drive.google.com/file/d/10CT9PZCn1E8YpZfn6kioiL-lck83e1at/view?usp=sharing
+
+N.B: download the finetuned model from this link https://drive.google.com/file/d/10CT9PZCn1E8YpZfn6kioiL-lck83e1at/view?usp=sharing and put it in this folder: models/comm/comments.safetensors
