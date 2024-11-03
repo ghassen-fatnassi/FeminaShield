@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yourusername/Feminashield">
-    <img src="./IMGS/logo.png" alt="Logo" width="300" height="300">
+    <img src="./IMGS/logo.png" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Feminashield</h3>
@@ -45,11 +45,10 @@ Feminashield is a browser extension toolkit aimed at creating a safer online exp
 
 Automatically masks misogynistic comments and memes on platforms like Facebook to enhance a positive browsing experience.
 
-- ![Image Placeholder](./IMGS/1.png)
-- ![Image Placeholder](./IMGS/2.png)
-- ![Image Placeholder](./IMGS/3.png)
-- ![Image Placeholder](./IMGS/4.png)
-- ![Image Placeholder](./IMGS/5.png)
+- ![Image Placeholder](./IMGS/10.png)
+- ![Image Placeholder](./IMGS/11.png)
+- ![Image Placeholder](./IMGS/12.png)
+- ![Image Placeholder](./IMGS/13.png)
 
 ### **Neighborhood Safety Mapping**
 
