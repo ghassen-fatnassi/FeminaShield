@@ -55,11 +55,11 @@ Automatically masks misogynistic comments and memes on platforms like Facebook t
 
 Users can tag and report dangerous locations in their neighborhoods, helping others avoid unsafe areas.
 
-- ![Image Placeholder](FeminaShield/IMGS/1.png)
-- ![Image Placeholder](FeminaShield/IMGS/2.png)
-- ![Image Placeholder](FeminaShield/IMGS/3.png)
-- ![Image Placeholder](FeminaShield/IMGS/4.png)
-- ![Image Placeholder](FeminaShield/IMGS/5.png)
+- ![Image Placeholder](./IMGS/1.png)
+- ![Image Placeholder](./IMGS/2.png)
+- ![Image Placeholder](./IMGS/3.png)
+- ![Image Placeholder](./IMGS/4.png)
+- ![Image Placeholder](./IMGS/5.png)
 
 ### **Learning Roadmaps**
 
