@@ -38,6 +38,9 @@
 
 Feminashield is a browser extension toolkit aimed at creating a safer online experience for women. It focuses on empowering users through various features that promote community awareness and education.
 
+## Demo
+- ![Image Placeholder](./IMGS/demo.gif)
+
 ## Features
 
 ### **Misogyny Content Masking**
