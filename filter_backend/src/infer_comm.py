@@ -81,7 +81,7 @@ app = FastAPI()
 
 # Initialize model service at startup
 model_service = ModelService.get_instance()
-MODEL_PATH = "./models/comm/comments.safetensors"  # Path to SafeTensors weights
+MODEL_PATH = "../models/comm/comments.safetensors"  # Path to SafeTensors weights
 
 @app.on_event("startup")
 async def startup_event():
