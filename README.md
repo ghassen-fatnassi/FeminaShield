@@ -34,17 +34,47 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Feminashield is a browser extension toolkit aimed at creating a safer online experience for women. It focuses on empowering users through various features that promote community awareness and education.
 
-### Features
-- **Misogyny Content Masking**: Automatically masks misogynistic comments and memes on platforms like Facebook to enhance a positive browsing experience.
-- **Neighborhood Safety Mapping**: Users can tag and report dangerous locations in their neighborhoods, helping others avoid unsafe areas.
-- **Learning Roadmaps**: The extension allows women to recommend educational resources and collaboratively build roadmaps. Users can highlight parts of their studies they find challenging and receive targeted advice from the community.
-- **Content Tagging**: A feature enabling users to tag links and content that empower women, fostering a collaborative community of support and encouragement.
+## Features
+
+### **Misogyny Content Masking**
+
+Automatically masks misogynistic comments and memes on platforms like Facebook to enhance a positive browsing experience.
+
+- ![Image Placeholder](FeminaShield/IMGS/1.png)
+- ![Image Placeholder](FeminaShield/IMGS/2.png)
+- ![Image Placeholder](FeminaShield/IMGS/3.png)
+- ![Image Placeholder](FeminaShield/IMGS/4.png)
+- ![Image Placeholder](FeminaShield/IMGS/5.png)
+
+### **Neighborhood Safety Mapping**
+
+Users can tag and report dangerous locations in their neighborhoods, helping others avoid unsafe areas.
+
+- ![Image Placeholder](FeminaShield/IMGS/1.png)
+- ![Image Placeholder](FeminaShield/IMGS/2.png)
+- ![Image Placeholder](FeminaShield/IMGS/3.png)
+- ![Image Placeholder](FeminaShield/IMGS/4.png)
+- ![Image Placeholder](FeminaShield/IMGS/5.png)
+
+### **Learning Roadmaps**
+
+The extension allows women to recommend educational resources and collaboratively build roadmaps. Users can highlight parts of their studies they find challenging and receive targeted advice from the community.
+
+- ![Image Placeholder](FeminaShield/IMGS/6.png)
+- ![Image Placeholder](FeminaShield/IMGS/7.png)
+- ![Image Placeholder](FeminaShield/IMGS/8.png)
+
+### **Content Tagging**
+
+A feature enabling users to tag links and content that empower women, fostering a collaborative community of support and encouragement.
 
 ### Built With
+
 - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 - [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -55,17 +85,22 @@ Feminashield is a browser extension toolkit aimed at creating a safer online exp
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get started with Feminashield, follow these instructions to set up the project on your local machine.
 
 ### Prerequisites
+
 Ensure you have the following installed:
+
 - Node.js
 - Python
 - Any other dependencies listed in the project's setup documentation.
 
 ### Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Feminashield.git
+   ```
